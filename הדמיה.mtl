@@ -1,34 +1,21 @@
-# Blender MTL File: 'None'
-# Material Count: 3
-
-newmtl FrontColor
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.330000 0.330000 0.330000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 
 newmtl JINKO_450_470_Watt_Tiger_Bifacial
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.301961 0.352941 0.349020
 Ks 0.330000 0.330000 0.330000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd הדמיה\\JINKO_450_470_Watt_Tiger_Bifacial.png
+map_Kd JINKO_450_470_Watt_Tiger_Bifacial.png
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
 
 newmtl material_40
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.423529 0.415686 0.392157
 Ks 0.330000 0.330000 0.330000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd הדמיה\\material_40.jpg
+map_Kd material_40.jpg
+
